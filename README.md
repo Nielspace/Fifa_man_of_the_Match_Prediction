@@ -3,3 +3,6 @@
 ## Model Designing and visualisation
 
 Used seaborn for data-visualizations, random-forrest and naive-bayes for data modelling
+
+The accuracy was not good the model that I made. So to increase the accuracy of the model I combine all the classifiers
+using ensemble from sklearn to build a high accuracy model without over-fitting. 
